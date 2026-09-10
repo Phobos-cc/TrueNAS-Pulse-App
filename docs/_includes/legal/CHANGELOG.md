@@ -6,16 +6,16 @@ All notable changes to TrueNAS Pulse are documented here.
 
 ## [Unreleased] - 1.0.6
 
-TrueNAS Pulse 1.0.6 improves shared uploads, update safety, reliability, and responsiveness.
-
 ### Added
-- Send files to TrueNAS from the iOS Share Sheet, review staged uploads in the app, and choose a destination with overwrite protection.
+- Protection Audit view for Pro users — fleet-wide rollups and history summaries covering backups, snapshots, and replication health.
 
 ### Changed
-- Improved foreground handoff so staged uploads appear reliably when the app opens or resumes.
-- Hardened update actions and duplicate-submit guards to reduce accidental repeated operations.
-- Improved empty-state recovery, readable status copy, scrolling stability, and view performance.
-- Updated Swift concurrency compatibility and expanded regression coverage.
+- Improved dashboard, reporting, and connection reliability, with smoother refreshes and fewer duplicate action submissions.
+- Refined storage diagnostics, control prompts, and status wording throughout the app.
+- Polished workload and inventory views, empty states, and alert copy.
+
+### Fixed
+- Dashboard overview caching issue that could show stale data after switching servers.
 
 ## [1.0.5] - 2026-05-12
 
