@@ -4,6 +4,19 @@ All notable changes to TrueNAS Pulse are documented here.
 
 ---
 
+## [Unreleased] - 1.0.6
+
+TrueNAS Pulse 1.0.6 improves shared uploads, update safety, reliability, and responsiveness.
+
+### Added
+- Send files to TrueNAS from the iOS Share Sheet, review staged uploads in the app, and choose a destination with overwrite protection.
+
+### Changed
+- Improved foreground handoff so staged uploads appear reliably when the app opens or resumes.
+- Hardened update actions and duplicate-submit guards to reduce accidental repeated operations.
+- Improved empty-state recovery, readable status copy, scrolling stability, and view performance.
+- Updated Swift concurrency compatibility and expanded regression coverage.
+
 ## [1.0.5] - 2026-05-12
 
 ### Added
