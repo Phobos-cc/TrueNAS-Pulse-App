@@ -4,7 +4,7 @@ Guidance for AI coding agents (Claude Code, Codex, Copilot, Cursor) when working
 
 ## What this repo is
 
-Public documentation site for **TrueNAS Pulse**, a closed-source native iPhone client for TrueNAS SCALE (App Store id `6759870893`, truenaspulse.com). This repo holds **no application source code** — the app itself lives elsewhere (see `docs/AGENTS.md`-style cross-reference in the sibling "TrueNAS Pulse Android" repo, which points to `/Users/chris/Developer/Xcode/TrueNAS Pulse` as the iOS product reference).
+Public documentation site for **TrueNAS Pulse**, a closed-source native iPhone client for TrueNAS SCALE (App Store id `6759870893`, truenaspulse.com). This repo holds **no application source code** — the app itself lives elsewhere (see `docs/AGENTS.md`-style cross-reference in the sibling "TrueNAS Pulse Android" repo, which points to `/Users/chris/Developer/GitHub/TrueNAS Pulse` as the iOS product reference).
 
 This repo is published as a static site via **GitHub Pages** at `legato3.github.io/TrueNAS-Pulse-App`, mirrored at `truenaspulse.com`.
 
